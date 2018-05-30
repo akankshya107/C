@@ -1,0 +1,4 @@
+Tinkering:
+1)Struct used for myalloc and myfree
+2)extern keyword
+3)link reversal
