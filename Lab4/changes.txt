@@ -1,0 +1,3 @@
+Tinkering:
+Time graph with higher inputs
+Duplicate has one bug somewhere in it
